@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Latihan Desktop Telegram", "Latihan Desktop Telegram\Latihan Desktop Telegram.csproj", "{2238CF56-90C0-4293-BEB9-B29D9E8CB4BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2238CF56-90C0-4293-BEB9-B29D9E8CB4BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2238CF56-90C0-4293-BEB9-B29D9E8CB4BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2238CF56-90C0-4293-BEB9-B29D9E8CB4BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2238CF56-90C0-4293-BEB9-B29D9E8CB4BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9CD8285C-8437-40EB-8C74-D9600236DDCE}
+	EndGlobalSection
+EndGlobal
